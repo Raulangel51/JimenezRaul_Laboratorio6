@@ -5,8 +5,11 @@ Lab de juegos 6
 Este laboratorio tiene como propósito introducir al alumno al desarrollo en Unity 2D. El alumno es libre de agregar a este laboratorio los scripts o assets de laboratorios pasados (incluyendo sus menús de inicio o pausa). Los requerimientos para este laboratorio son:
 
   -Una escena 2D (con cámara ortográfica) que tenga un background, piso y otros elementos decorativos. Cada uno de estos debe estar en un Sorting Layer apropiado (esto aplica también para los siguientes puntos).
+  
   -Un PlayerController 2D. Puede usar cualquier sprite que el alumno quiera. El PlayerController debe poder saltar y moverse de lado a lado. Al moverse de un lado para el otro, el sprite debe voltearse para simular que el personaje se voltea.
+    
     -Un "power up" en la escena que el PlayerController pueda recoger. Al recogerlo, el sprite del PlayerController debe cambiar de alguna manera para comunicar al usuario que se tiene un nuevo poder.
+      
       -Un obstáculo o enemigo en la escena que destruya al PlayerController cuando éste haga colisión con el obtáculo/enemigo. Si ya se ha recogido el Power Up del punto anterior, debe ser el obtáculo/enemigo que se destruya en vez del PlayerController.
 
 
