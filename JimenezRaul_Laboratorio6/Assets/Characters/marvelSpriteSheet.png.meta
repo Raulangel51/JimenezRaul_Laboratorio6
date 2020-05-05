@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 286cca748751a0849b0458e7f0527ac6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6039769939292678988
+    second: marvelSpriteSheet_0
+  - first:
+      213: -2141744627932200913
+    second: marvelSpriteSheet_1
+  - first:
+      213: 8220008411779250135
+    second: marvelSpriteSheet_2
+  - first:
+      213: 6746178692999158879
+    second: marvelSpriteSheet_3
+  - first:
+      213: 3897225657122505213
+    second: marvelSpriteSheet_4
+  - first:
+      213: -3057979642594033307
+    second: marvelSpriteSheet_5
+  - first:
+      213: -4438680868398203536
+    second: marvelSpriteSheet_6
+  - first:
+      213: -5239867085708374142
+    second: marvelSpriteSheet_7
+  - first:
+      213: 2417927099882869431
+    second: marvelSpriteSheet_8
+  - first:
+      213: 4246899458658860308
+    second: marvelSpriteSheet_9
+  - first:
+      213: -7272600861676018330
+    second: marvelSpriteSheet_10
+  - first:
+      213: -6819286017491066480
+    second: marvelSpriteSheet_11
+  - first:
+      213: -9040147714167174120
+    second: marvelSpriteSheet_12
+  - first:
+      213: -286441810800105112
+    second: marvelSpriteSheet_13
+  - first:
+      213: -9030724429406312309
+    second: marvelSpriteSheet_14
+  - first:
+      213: -2477129060307460090
+    second: marvelSpriteSheet_15
+  - first:
+      213: 7959985880145860765
+    second: marvelSpriteSheet_16
+  - first:
+      213: 5011038911341368311
+    second: marvelSpriteSheet_17
+  - first:
+      213: -6749677353412436573
+    second: marvelSpriteSheet_18
+  - first:
+      213: 2721809389880540208
+    second: marvelSpriteSheet_19
+  - first:
+      213: 8440575890272066667
+    second: marvelSpriteSheet_20
+  - first:
+      213: 1338390375829074669
+    second: marvelSpriteSheet_21
+  - first:
+      213: 674684380830211507
+    second: marvelSpriteSheet_22
+  - first:
+      213: -8395106348778276037
+    second: marvelSpriteSheet_23
+  - first:
+      213: -2864404115375944702
+    second: marvelSpriteSheet_24
+  - first:
+      213: -2843005070052679306
+    second: marvelSpriteSheet_25
+  - first:
+      213: -5962096949445033879
+    second: marvelSpriteSheet_26
+  - first:
+      213: 3169068326498787003
+    second: marvelSpriteSheet_27
+  - first:
+      213: 7638488356374974875
+    second: marvelSpriteSheet_28
+  - first:
+      213: 6848237564962313904
+    second: marvelSpriteSheet_29
+  - first:
+      213: -1447077265553435605
+    second: marvelSpriteSheet_30
+  - first:
+      213: -3785995367025046531
+    second: marvelSpriteSheet_31
+  - first:
+      213: 908097336798083008
+    second: marvelSpriteSheet_32
+  - first:
+      213: 5456756169733860502
+    second: marvelSpriteSheet_33
+  - first:
+      213: 967339443245000096
+    second: marvelSpriteSheet_34
+  - first:
+      213: 5842834535964767492
+    second: marvelSpriteSheet_35
+  - first:
+      213: 6104261310059078098
+    second: marvelSpriteSheet_36
+  - first:
+      213: 1444571906231625625
+    second: marvelSpriteSheet_37
+  - first:
+      213: -6566388831047674512
+    second: marvelSpriteSheet_38
+  - first:
+      213: 4278424784792194599
+    second: marvelSpriteSheet_39
+  - first:
+      213: 7209662172201381195
+    second: marvelSpriteSheet_40
+  - first:
+      213: -5037556899859874456
+    second: marvelSpriteSheet_41
+  - first:
+      213: 3753316332654638481
+    second: marvelSpriteSheet_42
+  - first:
+      213: 5536126251545719018
+    second: marvelSpriteSheet_43
+  - first:
+      213: -2595471490989695026
+    second: marvelSpriteSheet_44
+  - first:
+      213: 6959742045217715387
+    second: marvelSpriteSheet_45
+  - first:
+      213: -5410169039914305838
+    second: marvelSpriteSheet_46
+  - first:
+      213: -2266077397453191469
+    second: marvelSpriteSheet_47
+  - first:
+      213: 4432441700653728045
+    second: marvelSpriteSheet_48
+  - first:
+      213: -5029640527863710181
+    second: marvelSpriteSheet_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marvelSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 287
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b6f9c72c291d350800000000000000
+      internalID: 6039769939292678988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 287
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20008cbb9ef642e0800000000000000
+      internalID: -2141744627932200913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 287
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d733da5916531270800000000000000
+      internalID: 8220008411779250135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c168b47cd3f9d50800000000000000
+      internalID: 6746178692999158879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 287
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df14356361ab51630800000000000000
+      internalID: 3897225657122505213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 287
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5618ec887bfdf85d0800000000000000
+      internalID: -3057979642594033307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 287
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7dcf6443a662c0800000000000000
+      internalID: -4438680868398203536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 287
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4716c5a04847b0800000000000000
+      internalID: -5239867085708374142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 287
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b21f49f2e33e8120800000000000000
+      internalID: 2417927099882869431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 287
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41df82e7e8400fa30800000000000000
+      internalID: 4246899458658860308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 287
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e9965c08821b90800000000000000
+      internalID: -7272600861676018330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 287
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09128a94f770d51a0800000000000000
+      internalID: -6819286017491066480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 222
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c810cfc81fa8280800000000000000
+      internalID: -9040147714167174120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 222
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a072d0ba560cf0800000000000000
+      internalID: -286441810800105112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 222
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886bc07afb6ca280800000000000000
+      internalID: -9030724429406312309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 222
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a3997e387f9dd0800000000000000
+      internalID: -2477129060307460090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 222
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981833fbfc877e60800000000000000
+      internalID: 7959985880145860765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 222
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3992a1759ca8540800000000000000
+      internalID: 5011038911341368311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 222
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad5a5955345452a0800000000000000
+      internalID: -6749677353412436573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 222
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf626283fc5c520800000000000000
+      internalID: 2721809389880540208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 222
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c94675d03f22570800000000000000
+      internalID: 8440575890272066667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 222
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f71aa4fae29210800000000000000
+      internalID: 1338390375829074669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 222
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd93e6aed5fc5900800000000000000
+      internalID: 674684380830211507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 222
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bb17541479e7b80800000000000000
+      internalID: -8395106348778276037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 222
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c89d122a79f38d0800000000000000
+      internalID: -2864404115375944702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67120e0a3fd9b88d0800000000000000
+      internalID: -2843005070052679306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 146
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96083ebb960624da0800000000000000
+      internalID: -5962096949445033879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 146
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed6ed3adacafb20800000000000000
+      internalID: 3169068326498787003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9110be80bc510a60800000000000000
+      internalID: 7638488356374974875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 146
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6901528c3d90f50800000000000000
+      internalID: 6848237564962313904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 146
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d428d4e2faebe0800000000000000
+      internalID: -1447077265553435605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 146
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8233d541757bc0800000000000000
+      internalID: -3785995367025046531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 146
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7f35d67b53a9c00800000000000000
+      internalID: 908097336798083008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 84
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c68e243da4abb40800000000000000
+      internalID: 5456756169733860502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a7d3391eac6d00800000000000000
+      internalID: 967339443245000096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 29
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4057095cd0be51150800000000000000
+      internalID: 5842834535964767492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 78
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d16b3ad151b6b450800000000000000
+      internalID: 6104261310059078098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e17bbe762c0410800000000000000
+      internalID: 1444571906231625625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 25
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0759f4cf5208fd4a0800000000000000
+      internalID: -6566388831047674512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 25
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e04c77ca4006b30800000000000000
+      internalID: 4278424784792194599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 25
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d62a41c8ddd0460800000000000000
+      internalID: 7209662172201381195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 25
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db80090b0071ab0800000000000000
+      internalID: -5037556899859874456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953d819155761430800000000000000
+      internalID: 3753316332654638481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 25
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f81f7e7544dc40800000000000000
+      internalID: 5536126251545719018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 25
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd7ea2e680bfbd0800000000000000
+      internalID: -2595471490989695026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 25
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47d8d0488f59060800000000000000
+      internalID: 6959742045217715387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 25
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d677192ce73be4b0800000000000000
+      internalID: -5410169039914305838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 44
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c24bfc964d80e0800000000000000
+      internalID: -2266077397453191469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 25
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21081f1e32338d30800000000000000
+      internalID: 4432441700653728045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marvelSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e76cc8690233ab0800000000000000
+      internalID: -5029640527863710181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
