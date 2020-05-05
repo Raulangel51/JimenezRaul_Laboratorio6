@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Manager.cs" />
     <Compile Include="Assets\Scripts\Mario.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/raula/Documents/GitHub/JimenezRaul_Laboratorio6/JimenezRaul_Laboratorio6/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
